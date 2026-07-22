@@ -1,0 +1,132 @@
+{
+	"BUILD_DIR" : "/home/alan/Games/2dCar/DustRacing2D/build/src/game/unittests/gearboxtest/gearboxtest_autogen",
+	"CMAKE_BINARY_DIR" : "/home/alan/Games/2dCar/DustRacing2D/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/alan/Games/2dCar/DustRacing2D/build/src/game/unittests/gearboxtest",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/alan/Games/2dCar/DustRacing2D/src/game/unittests/gearboxtest",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/alan/Games/2dCar/DustRacing2D/src/game/unittests/gearboxtest/CMakeLists.txt"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/alan/Games/2dCar/DustRacing2D",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/home/alan/Games/2dCar/DustRacing2D/build/src/game/unittests/gearboxtest/gearboxtest_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "gearboxtest_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/game/gearbox.hpp",
+			"MU",
+			"BH3NS63JAO/moc_gearbox.cpp",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/game/unittests/gearboxtest/gearboxtest.hpp",
+			"MU",
+			"EWIEGA46WW/moc_gearboxtest.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/alan/Games/2dCar/DustRacing2D/build/src/game/unittests/gearboxtest/gearboxtest_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/alan/Games/2dCar/DustRacing2D/build/src/game/unittests/gearboxtest/gearboxtest_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"DATA_PATH=\"./data\"",
+		"GLEW_NO_GLU",
+		"GLEW_STATIC",
+		"QT_CORE_LIB",
+		"QT_TESTCASE_BUILDDIR=\"/home/alan/Games/2dCar/DustRacing2D/build/src/game/unittests/gearboxtest\"",
+		"QT_TESTCASE_SOURCEDIR=\"/home/alan/Games/2dCar/DustRacing2D/src/game/unittests/gearboxtest\"",
+		"QT_TESTLIB_LIB",
+		"VERSION=\"2.2.0\"",
+		"__MC_NO_GLEW__",
+		"__MC_QOPENGLFUNCTIONS__"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/alan/Games/2dCar/DustRacing2D/src/contrib/SimpleLogger/src",
+		"/home/alan/Games/2dCar/DustRacing2D/src/contrib/Argengine/src",
+		"/home/alan/Games/2dCar/DustRacing2D/src/game/MiniCore/src/Asset",
+		"/home/alan/Games/2dCar/DustRacing2D/src/game/MiniCore/src/Core",
+		"/home/alan/Games/2dCar/DustRacing2D/src/game/MiniCore/src/Graphics",
+		"/home/alan/Games/2dCar/DustRacing2D/src/game/MiniCore/src/Particles",
+		"/home/alan/Games/2dCar/DustRacing2D/src/game/MiniCore/src/Physics",
+		"/home/alan/Games/2dCar/DustRacing2D/src/game/MiniCore/src/Text",
+		"/home/alan/Games/2dCar/DustRacing2D/src/game/MTFH",
+		"/home/alan/Games/2dCar/DustRacing2D/src/game/menu",
+		"/home/alan/Games/2dCar/DustRacing2D/src/game/STFH",
+		"/home/alan/Games/2dCar/DustRacing2D/src/game/audio",
+		"/home/alan/Games/2dCar/DustRacing2D/src/game",
+		"/home/alan/Games/2dCar/DustRacing2D/src/game/unittests/gearboxtest",
+		"/home/alan/Qt/6.8.3/gcc_64/include/QtTest",
+		"/home/alan/Qt/6.8.3/gcc_64/include",
+		"/home/alan/Qt/6.8.3/gcc_64/include/QtCore",
+		"/home/alan/Qt/6.8.3/gcc_64/mkspecs/linux-g++",
+		"/usr/include",
+		"/usr/include/c++/15.2.0",
+		"/usr/include/c++/15.2.0/x86_64-unknown-linux-gnu",
+		"/usr/include/c++/15.2.0/backward",
+		"/usr/lib/gcc/x86_64-unknown-linux-gnu/15.2.0/include",
+		"/usr/lib/gcc/x86_64-unknown-linux-gnu/15.2.0/include-fixed",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-std=gnu++17",
+		"-w",
+		"-dM",
+		"-E",
+		"/usr/share/cmake-4.3/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/alan/Games/2dCar/DustRacing2D/build/src/game/unittests/gearboxtest/gearboxtest_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/home/alan/Games/2dCar/DustRacing2D/build/src/game/unittests/gearboxtest/CMakeFiles/gearboxtest_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/home/alan/Qt/6.8.3/gcc_64/libexec/moc",
+	"QT_UIC_EXECUTABLE" : "/home/alan/Qt/6.8.3/gcc_64/libexec/uic",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 8,
+	"SETTINGS_FILE" : "/home/alan/Games/2dCar/DustRacing2D/build/src/game/unittests/gearboxtest/CMakeFiles/gearboxtest_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/game/gearbox.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/game/unittests/gearboxtest/gearboxtest.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

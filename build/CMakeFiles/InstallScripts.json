@@ -1,0 +1,24 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/alan/Games/2dCar/DustRacing2D/build/cmake_install.cmake",
+		"/home/alan/Games/2dCar/DustRacing2D/build/src/contrib/SimpleLogger/cmake_install.cmake",
+		"/home/alan/Games/2dCar/DustRacing2D/build/src/contrib/SimpleLogger/src/cmake_install.cmake",
+		"/home/alan/Games/2dCar/DustRacing2D/build/src/contrib/Argengine/cmake_install.cmake",
+		"/home/alan/Games/2dCar/DustRacing2D/build/src/contrib/Argengine/src/cmake_install.cmake",
+		"/home/alan/Games/2dCar/DustRacing2D/build/src/editor/cmake_install.cmake",
+		"/home/alan/Games/2dCar/DustRacing2D/build/src/game/cmake_install.cmake",
+		"/home/alan/Games/2dCar/DustRacing2D/build/src/game/MiniCore/cmake_install.cmake",
+		"/home/alan/Games/2dCar/DustRacing2D/build/src/game/MiniCore/src/cmake_install.cmake",
+		"/home/alan/Games/2dCar/DustRacing2D/build/src/game/MiniCore/src/UnitTests/cmake_install.cmake",
+		"/home/alan/Games/2dCar/DustRacing2D/build/src/game/MiniCore/src/UnitTests/MCForceRegistryTest/cmake_install.cmake",
+		"/home/alan/Games/2dCar/DustRacing2D/build/src/game/MiniCore/src/UnitTests/MCObjectTest/cmake_install.cmake",
+		"/home/alan/Games/2dCar/DustRacing2D/build/src/game/MiniCore/src/UnitTests/MCMeshLoaderTest/cmake_install.cmake",
+		"/home/alan/Games/2dCar/DustRacing2D/build/src/game/MiniCore/src/UnitTests/MCWorldTest/cmake_install.cmake",
+		"/home/alan/Games/2dCar/DustRacing2D/build/src/game/MTFH/cmake_install.cmake",
+		"/home/alan/Games/2dCar/DustRacing2D/build/src/game/STFH/cmake_install.cmake",
+		"/home/alan/Games/2dCar/DustRacing2D/build/src/game/unittests/cmake_install.cmake",
+		"/home/alan/Games/2dCar/DustRacing2D/build/src/game/unittests/gearboxtest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,1599 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "dustrac-game"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"target_link_libraries",
+			"set_target_properties",
+			"include",
+			"find_package",
+			"set_property",
+			"__find_dependency_common",
+			"find_dependency",
+			"_qt_internal_find_third_party_dependencies",
+			"_qt_internal_find_qt_dependencies",
+			"add_custom_command",
+			"qt6_add_resources",
+			"qt_add_resources",
+			"qt6_add_translation",
+			"qt_add_translation",
+			"add_compile_options",
+			"add_definitions",
+			"resolve_install_paths",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"src/game/CMakeLists.txt",
+			"/home/alan/Qt/6.8.3/gcc_64/lib/cmake/Qt6OpenGL/Qt6OpenGLTargets.cmake",
+			"/home/alan/Qt/6.8.3/gcc_64/lib/cmake/Qt6OpenGL/Qt6OpenGLConfig.cmake",
+			"/home/alan/Qt/6.8.3/gcc_64/lib/cmake/Qt6/Qt6Config.cmake",
+			"CMakeLists.txt",
+			"/usr/share/cmake-4.3/Modules/FindOpenGL.cmake",
+			"/home/alan/Qt/6.8.3/gcc_64/lib/cmake/Qt6/FindWrapOpenGL.cmake",
+			"/usr/share/cmake-4.3/Modules/CMakeFindDependencyMacro.cmake",
+			"/home/alan/Qt/6.8.3/gcc_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+			"/home/alan/Qt/6.8.3/gcc_64/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake",
+			"/home/alan/Qt/6.8.3/gcc_64/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake",
+			"/home/alan/Qt/6.8.3/gcc_64/lib/cmake/Qt6OpenGL/Qt6OpenGLDependencies.cmake",
+			"src/game/MiniCore/src/CMakeLists.txt",
+			"/home/alan/Qt/6.8.3/gcc_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"/home/alan/Qt/6.8.3/gcc_64/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsMacros.cmake",
+			"InstallLinux.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 157,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 169,
+				"parent" : 0
+			},
+			{
+				"file" : 4
+			},
+			{
+				"command" : 4,
+				"file" : 4,
+				"line" : 150,
+				"parent" : 3
+			},
+			{
+				"file" : 3,
+				"parent" : 4
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 196,
+				"parent" : 5
+			},
+			{
+				"file" : 2,
+				"parent" : 6
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 55,
+				"parent" : 7
+			},
+			{
+				"file" : 1,
+				"parent" : 8
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 61,
+				"parent" : 9
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 43,
+				"parent" : 7
+			},
+			{
+				"file" : 11,
+				"parent" : 11
+			},
+			{
+				"command" : 9,
+				"file" : 11,
+				"line" : 46,
+				"parent" : 12
+			},
+			{
+				"command" : 7,
+				"file" : 8,
+				"line" : 145,
+				"parent" : 13
+			},
+			{
+				"command" : 6,
+				"file" : 7,
+				"line" : 125,
+				"parent" : 14
+			},
+			{
+				"command" : 4,
+				"file" : 7,
+				"line" : 93,
+				"parent" : 15
+			},
+			{
+				"file" : 10,
+				"parent" : 16
+			},
+			{
+				"command" : 3,
+				"file" : 10,
+				"line" : 43,
+				"parent" : 17
+			},
+			{
+				"file" : 9,
+				"parent" : 18
+			},
+			{
+				"command" : 8,
+				"file" : 9,
+				"line" : 37,
+				"parent" : 19
+			},
+			{
+				"command" : 7,
+				"file" : 8,
+				"line" : 36,
+				"parent" : 20
+			},
+			{
+				"command" : 6,
+				"file" : 7,
+				"line" : 125,
+				"parent" : 21
+			},
+			{
+				"command" : 4,
+				"file" : 7,
+				"line" : 93,
+				"parent" : 22
+			},
+			{
+				"file" : 6,
+				"parent" : 23
+			},
+			{
+				"command" : 4,
+				"file" : 6,
+				"line" : 13,
+				"parent" : 24
+			},
+			{
+				"file" : 5,
+				"parent" : 25
+			},
+			{
+				"command" : 5,
+				"file" : 5,
+				"line" : 837,
+				"parent" : 26
+			},
+			{
+				"command" : 2,
+				"file" : 5,
+				"line" : 835,
+				"parent" : 26
+			},
+			{
+				"file" : 12
+			},
+			{
+				"command" : 1,
+				"file" : 12,
+				"line" : 92,
+				"parent" : 29
+			},
+			{
+				"command" : 12,
+				"file" : 0,
+				"line" : 127,
+				"parent" : 0
+			},
+			{
+				"command" : 11,
+				"file" : 13,
+				"line" : 458,
+				"parent" : 31
+			},
+			{
+				"command" : 10,
+				"file" : 13,
+				"line" : 436,
+				"parent" : 32
+			},
+			{
+				"command" : 14,
+				"file" : 0,
+				"line" : 128,
+				"parent" : 0
+			},
+			{
+				"command" : 13,
+				"file" : 14,
+				"line" : 794,
+				"parent" : 34
+			},
+			{
+				"command" : 10,
+				"file" : 14,
+				"line" : 118,
+				"parent" : 35
+			},
+			{
+				"command" : 15,
+				"file" : 4,
+				"line" : 130,
+				"parent" : 3
+			},
+			{
+				"command" : 17,
+				"file" : 4,
+				"line" : 207,
+				"parent" : 3
+			},
+			{
+				"command" : 16,
+				"file" : 15,
+				"line" : 68,
+				"parent" : 38
+			},
+			{
+				"command" : 16,
+				"file" : 4,
+				"line" : 117,
+				"parent" : 3
+			},
+			{
+				"command" : 16,
+				"file" : 4,
+				"line" : 116,
+				"parent" : 3
+			},
+			{
+				"command" : 16,
+				"file" : 4,
+				"line" : 147,
+				"parent" : 3
+			},
+			{
+				"command" : 16,
+				"file" : 4,
+				"line" : 92,
+				"parent" : 3
+			},
+			{
+				"command" : 16,
+				"file" : 4,
+				"line" : 97,
+				"parent" : 3
+			},
+			{
+				"command" : 18,
+				"file" : 4,
+				"line" : 201,
+				"parent" : 3
+			},
+			{
+				"command" : 18,
+				"file" : 4,
+				"line" : 204,
+				"parent" : 3
+			},
+			{
+				"command" : 18,
+				"file" : 0,
+				"line" : 11,
+				"parent" : 0
+			},
+			{
+				"command" : 18,
+				"file" : 0,
+				"line" : 12,
+				"parent" : 0
+			},
+			{
+				"command" : 18,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 0
+			},
+			{
+				"command" : 18,
+				"file" : 0,
+				"line" : 14,
+				"parent" : 0
+			},
+			{
+				"command" : 18,
+				"file" : 0,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"command" : 18,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 18,
+				"file" : 0,
+				"line" : 19,
+				"parent" : 0
+			},
+			{
+				"command" : 18,
+				"file" : 0,
+				"line" : 20,
+				"parent" : 0
+			},
+			{
+				"command" : 18,
+				"file" : 0,
+				"line" : 23,
+				"parent" : 0
+			},
+			{
+				"command" : 18,
+				"file" : 0,
+				"line" : 24,
+				"parent" : 0
+			},
+			{
+				"command" : 18,
+				"file" : 0,
+				"line" : 125,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 10
+	},
+	"compileDependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "MiniCore::@2d2f86621e37ad2e585d"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "MTFH::@f4efda0dadc692bed537"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "STFH::@a3e36422d9d728db0e8c"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "Qt6::OpenGL::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "Qt6::Sql::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "Qt6::Xml::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "OpenGL::GL::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "SimpleLogger_static::@49086cdaf2debcc0514f"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "Argengine_static::@469b1b93298d29dcbf7b"
+		}
+	],
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=gnu++17"
+				},
+				{
+					"backtrace" : 37,
+					"fragment" : "-W"
+				},
+				{
+					"backtrace" : 37,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 37,
+					"fragment" : "-O0"
+				},
+				{
+					"backtrace" : 37,
+					"fragment" : "-pedantic"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-fPIC"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 39,
+					"define" : "DATA_PATH=\"./data\""
+				},
+				{
+					"backtrace" : 40,
+					"define" : "GLEW_NO_GLU"
+				},
+				{
+					"backtrace" : 41,
+					"define" : "GLEW_STATIC"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_OPENGL_LIB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_SQL_LIB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_XML_LIB"
+				},
+				{
+					"backtrace" : 42,
+					"define" : "VERSION=\"2.2.0\""
+				},
+				{
+					"backtrace" : 43,
+					"define" : "__MC_NO_GLEW__"
+				},
+				{
+					"backtrace" : 44,
+					"define" : "__MC_QOPENGLFUNCTIONS__"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/home/alan/Games/2dCar/DustRacing2D/build/src/game/dustrac-game_autogen/include"
+				},
+				{
+					"backtrace" : 45,
+					"path" : "/home/alan/Games/2dCar/DustRacing2D/src/contrib/SimpleLogger/src"
+				},
+				{
+					"backtrace" : 46,
+					"path" : "/home/alan/Games/2dCar/DustRacing2D/src/contrib/Argengine/src"
+				},
+				{
+					"backtrace" : 47,
+					"path" : "/home/alan/Games/2dCar/DustRacing2D/src/game/MiniCore/src/Asset"
+				},
+				{
+					"backtrace" : 48,
+					"path" : "/home/alan/Games/2dCar/DustRacing2D/src/game/MiniCore/src/Core"
+				},
+				{
+					"backtrace" : 49,
+					"path" : "/home/alan/Games/2dCar/DustRacing2D/src/game/MiniCore/src/Graphics"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/home/alan/Games/2dCar/DustRacing2D/src/game/MiniCore/src/Particles"
+				},
+				{
+					"backtrace" : 51,
+					"path" : "/home/alan/Games/2dCar/DustRacing2D/src/game/MiniCore/src/Physics"
+				},
+				{
+					"backtrace" : 52,
+					"path" : "/home/alan/Games/2dCar/DustRacing2D/src/game/MiniCore/src/Text"
+				},
+				{
+					"backtrace" : 53,
+					"path" : "/home/alan/Games/2dCar/DustRacing2D/src/game/MTFH"
+				},
+				{
+					"backtrace" : 54,
+					"path" : "/home/alan/Games/2dCar/DustRacing2D/src/game/menu"
+				},
+				{
+					"backtrace" : 55,
+					"path" : "/home/alan/Games/2dCar/DustRacing2D/src/game/STFH"
+				},
+				{
+					"backtrace" : 56,
+					"path" : "/home/alan/Games/2dCar/DustRacing2D/src/game/audio"
+				},
+				{
+					"backtrace" : 57,
+					"path" : "/home/alan/Games/2dCar/DustRacing2D/src/game"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/home/alan/Qt/6.8.3/gcc_64/include/QtCore"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/home/alan/Qt/6.8.3/gcc_64/include"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/home/alan/Qt/6.8.3/gcc_64/mkspecs/linux-g++"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/home/alan/Qt/6.8.3/gcc_64/include/QtOpenGL"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/home/alan/Qt/6.8.3/gcc_64/include/QtGui"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/home/alan/Qt/6.8.3/gcc_64/include/QtXml"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/home/alan/Qt/6.8.3/gcc_64/include/QtSql"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					2,
+					2
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "SimpleLogger_static::@49086cdaf2debcc0514f"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "Argengine_static::@469b1b93298d29dcbf7b"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "MiniCore::@2d2f86621e37ad2e585d"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "MTFH::@f4efda0dadc692bed537"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "STFH::@a3e36422d9d728db0e8c"
+		},
+		{
+			"id" : "dustrac-game_autogen_timestamp_deps::@237b513620d2b2ecc71d"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "dustrac-game_autogen::@237b513620d2b2ecc71d"
+		}
+	],
+	"id" : "dustrac-game::@237b513620d2b2ecc71d",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,-rpath,/home/alan/Qt/6.8.3/gcc_64/lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "MiniCore/src/libMiniCore.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "MTFH/libMTFH.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "STFH/libSTFH.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopenal.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "-lvorbisfile",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/alan/Qt/6.8.3/gcc_64/lib/libQt6OpenGL.so.6.8.3",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/alan/Qt/6.8.3/gcc_64/lib/libQt6Sql.so.6.8.3",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/alan/Qt/6.8.3/gcc_64/lib/libQt6Xml.so.6.8.3",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "../../libSimpleLogger_static.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "../../libArgengine_static.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "/home/alan/Qt/6.8.3/gcc_64/lib/libQt6Gui.so.6.8.3",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 27,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libGLX.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 28,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libOpenGL.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 30,
+				"fragment" : "/home/alan/Qt/6.8.3/gcc_64/lib/libQt6Core.so.6.8.3",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Wl,-rpath-link,/home/alan/Qt/6.8.3/gcc_64/lib",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"linkLibraries" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "MiniCore::@2d2f86621e37ad2e585d"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "MTFH::@f4efda0dadc692bed537"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "STFH::@a3e36422d9d728db0e8c"
+		},
+		{
+			"backtrace" : 2,
+			"fragment" : "/usr/lib/x86_64-linux-gnu/libopenal.so"
+		},
+		{
+			"backtrace" : 2,
+			"fragment" : "vorbisfile"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "Qt6::OpenGL::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "Qt6::Sql::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "Qt6::Xml::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "OpenGL::GL::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "SimpleLogger_static::@49086cdaf2debcc0514f"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "Argengine_static::@469b1b93298d29dcbf7b"
+		}
+	],
+	"name" : "dustrac-game",
+	"nameOnDisk" : "dustrac-game",
+	"orderDependencies" : 
+	[
+		{
+			"id" : "Qt6::moc::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 33,
+			"id" : "Qt6::rcc::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "Qt6::uic::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 36,
+			"id" : "Qt6::lrelease::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "dustrac-game_autogen_timestamp_deps::@237b513620d2b2ecc71d"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "dustrac-game_autogen::@237b513620d2b2ecc71d"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/game",
+		"source" : "src/game"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files\\Generated",
+			"sourceIndexes" : 
+			[
+				0,
+				88
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3,
+				4,
+				51,
+				52
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				89
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/src/game/dustrac-game_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/game/layers.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/game/shaders.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/game/shaders30.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/common/userexception.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/ai.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/application.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/bridge.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/car.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/carfactory.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/carparticleeffectmanager.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/carphysicscomponent.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/carsoundeffectmanager.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/carstatusview.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/checkeredflag.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/crashoverlay.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/database.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/difficultyprofile.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/eventhandler.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/fadeanimation.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/fontfactory.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/game.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/gearbox.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/graphicsfactory.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/inputhandler.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/intro.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/main.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/map.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/messageoverlay.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/minimap.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/particlefactory.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/pit.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/offtrackdetector.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/overlaybase.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/race.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/renderer.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/scene.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/settings.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/startlights.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/startlightsoverlay.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/statemachine.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/timing.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/timingoverlay.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/tire.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/track.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/trackdata.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/trackloader.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/trackobject.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/trackobjectfactory.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/tracktile.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/tree.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/common/config.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/common/datakeywords.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/common/objectbase.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/common/objects.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/common/route.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/common/targetnodebase.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/common/trackdatabase.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/common/tracktilebase.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/common/mapbase.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/audio/audioworker.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/audio/audiosource.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/audio/openaldata.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/audio/openaldevice.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/audio/openalsource.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/audio/openaloggdata.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/audio/openalwavdata.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/menu/confirmationmenu.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/menu/credits.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/menu/difficultymenu.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/menu/help.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/menu/keyconfigmenu.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/menu/lapcountmenu.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/menu/mainmenu.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/menu/resolutionmenu.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/menu/settingsmenu.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/menu/surfacemenu.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/menu/textmenuitemview.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/menu/trackselectionmenu.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/game/menu/vsyncmenu.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/src/game/qrc_icons.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "build/data/translations/dustrac-game_fi.qm",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "build/data/translations/dustrac-game_it.qm",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "build/data/translations/dustrac-game_cs.qm",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "build/data/translations/dustrac-game_fr.qm",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "build/data/translations/dustrac-game_de.qm",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "build/data/translations/dustrac-game_nl.qm",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "build/data/translations/dustrac-game_tr.qm",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/src/game/dustrac-game_autogen/timestamp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"path" : "data/icons/icons.qrc",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/data/translations/dustrac-game_fi.qm.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/data/translations/dustrac-game_it.qm.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/data/translations/dustrac-game_cs.qm.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/data/translations/dustrac-game_fr.qm.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/data/translations/dustrac-game_de.qm.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/data/translations/dustrac-game_nl.qm.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/data/translations/dustrac-game_tr.qm.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/src/game/dustrac-game_autogen/timestamp.rule",
+			"sourceGroupIndex" : 4
+		}
+	],
+	"type" : "EXECUTABLE"
+}

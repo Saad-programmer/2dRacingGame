@@ -1,0 +1,1041 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "dustrac-editor"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"target_link_libraries",
+			"set_target_properties",
+			"include",
+			"find_package",
+			"set_property",
+			"__find_dependency_common",
+			"find_dependency",
+			"_qt_internal_find_third_party_dependencies",
+			"_qt_internal_find_qt_dependencies",
+			"add_custom_command",
+			"qt6_add_resources",
+			"qt_add_resources",
+			"qt6_add_translation",
+			"qt_add_translation",
+			"add_compile_options",
+			"add_definitions",
+			"resolve_install_paths",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"src/editor/CMakeLists.txt",
+			"/home/alan/Qt/6.8.3/gcc_64/lib/cmake/Qt6Widgets/Qt6WidgetsTargets.cmake",
+			"/home/alan/Qt/6.8.3/gcc_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake",
+			"/home/alan/Qt/6.8.3/gcc_64/lib/cmake/Qt6/Qt6Config.cmake",
+			"CMakeLists.txt",
+			"/usr/share/cmake-4.3/Modules/FindOpenGL.cmake",
+			"/home/alan/Qt/6.8.3/gcc_64/lib/cmake/Qt6/FindWrapOpenGL.cmake",
+			"/usr/share/cmake-4.3/Modules/CMakeFindDependencyMacro.cmake",
+			"/home/alan/Qt/6.8.3/gcc_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+			"/home/alan/Qt/6.8.3/gcc_64/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake",
+			"/home/alan/Qt/6.8.3/gcc_64/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake",
+			"/home/alan/Qt/6.8.3/gcc_64/lib/cmake/Qt6OpenGL/Qt6OpenGLDependencies.cmake",
+			"/home/alan/Qt/6.8.3/gcc_64/lib/cmake/Qt6OpenGL/Qt6OpenGLConfig.cmake",
+			"/home/alan/Qt/6.8.3/gcc_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"/home/alan/Qt/6.8.3/gcc_64/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsMacros.cmake",
+			"InstallLinux.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 84,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 86,
+				"parent" : 0
+			},
+			{
+				"file" : 4
+			},
+			{
+				"command" : 4,
+				"file" : 4,
+				"line" : 150,
+				"parent" : 3
+			},
+			{
+				"file" : 3,
+				"parent" : 4
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 196,
+				"parent" : 5
+			},
+			{
+				"file" : 2,
+				"parent" : 6
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 55,
+				"parent" : 7
+			},
+			{
+				"file" : 1,
+				"parent" : 8
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 61,
+				"parent" : 9
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 196,
+				"parent" : 5
+			},
+			{
+				"file" : 12,
+				"parent" : 11
+			},
+			{
+				"command" : 3,
+				"file" : 12,
+				"line" : 43,
+				"parent" : 12
+			},
+			{
+				"file" : 11,
+				"parent" : 13
+			},
+			{
+				"command" : 9,
+				"file" : 11,
+				"line" : 46,
+				"parent" : 14
+			},
+			{
+				"command" : 7,
+				"file" : 8,
+				"line" : 145,
+				"parent" : 15
+			},
+			{
+				"command" : 6,
+				"file" : 7,
+				"line" : 125,
+				"parent" : 16
+			},
+			{
+				"command" : 4,
+				"file" : 7,
+				"line" : 93,
+				"parent" : 17
+			},
+			{
+				"file" : 10,
+				"parent" : 18
+			},
+			{
+				"command" : 3,
+				"file" : 10,
+				"line" : 43,
+				"parent" : 19
+			},
+			{
+				"file" : 9,
+				"parent" : 20
+			},
+			{
+				"command" : 8,
+				"file" : 9,
+				"line" : 37,
+				"parent" : 21
+			},
+			{
+				"command" : 7,
+				"file" : 8,
+				"line" : 36,
+				"parent" : 22
+			},
+			{
+				"command" : 6,
+				"file" : 7,
+				"line" : 125,
+				"parent" : 23
+			},
+			{
+				"command" : 4,
+				"file" : 7,
+				"line" : 93,
+				"parent" : 24
+			},
+			{
+				"file" : 6,
+				"parent" : 25
+			},
+			{
+				"command" : 4,
+				"file" : 6,
+				"line" : 13,
+				"parent" : 26
+			},
+			{
+				"file" : 5,
+				"parent" : 27
+			},
+			{
+				"command" : 5,
+				"file" : 5,
+				"line" : 837,
+				"parent" : 28
+			},
+			{
+				"command" : 2,
+				"file" : 5,
+				"line" : 835,
+				"parent" : 28
+			},
+			{
+				"command" : 12,
+				"file" : 0,
+				"line" : 50,
+				"parent" : 0
+			},
+			{
+				"command" : 11,
+				"file" : 13,
+				"line" : 458,
+				"parent" : 31
+			},
+			{
+				"command" : 10,
+				"file" : 13,
+				"line" : 436,
+				"parent" : 32
+			},
+			{
+				"command" : 14,
+				"file" : 0,
+				"line" : 51,
+				"parent" : 0
+			},
+			{
+				"command" : 13,
+				"file" : 14,
+				"line" : 794,
+				"parent" : 34
+			},
+			{
+				"command" : 10,
+				"file" : 14,
+				"line" : 118,
+				"parent" : 35
+			},
+			{
+				"command" : 15,
+				"file" : 4,
+				"line" : 130,
+				"parent" : 3
+			},
+			{
+				"command" : 17,
+				"file" : 4,
+				"line" : 207,
+				"parent" : 3
+			},
+			{
+				"command" : 16,
+				"file" : 15,
+				"line" : 68,
+				"parent" : 38
+			},
+			{
+				"command" : 16,
+				"file" : 4,
+				"line" : 117,
+				"parent" : 3
+			},
+			{
+				"command" : 16,
+				"file" : 4,
+				"line" : 116,
+				"parent" : 3
+			},
+			{
+				"command" : 16,
+				"file" : 4,
+				"line" : 147,
+				"parent" : 3
+			},
+			{
+				"command" : 16,
+				"file" : 4,
+				"line" : 92,
+				"parent" : 3
+			},
+			{
+				"command" : 16,
+				"file" : 4,
+				"line" : 97,
+				"parent" : 3
+			},
+			{
+				"command" : 18,
+				"file" : 4,
+				"line" : 201,
+				"parent" : 3
+			},
+			{
+				"command" : 18,
+				"file" : 4,
+				"line" : 204,
+				"parent" : 3
+			},
+			{
+				"command" : 18,
+				"file" : 0,
+				"line" : 48,
+				"parent" : 0
+			},
+			{
+				"command" : 18,
+				"file" : 0,
+				"line" : 55,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 10
+	},
+	"compileDependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "Qt6::Widgets::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "Qt6::Xml::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "Argengine_static::@469b1b93298d29dcbf7b"
+		}
+	],
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=gnu++17"
+				},
+				{
+					"backtrace" : 37,
+					"fragment" : "-W"
+				},
+				{
+					"backtrace" : 37,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 37,
+					"fragment" : "-O0"
+				},
+				{
+					"backtrace" : 37,
+					"fragment" : "-pedantic"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-fPIC"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 39,
+					"define" : "DATA_PATH=\"./data\""
+				},
+				{
+					"backtrace" : 40,
+					"define" : "GLEW_NO_GLU"
+				},
+				{
+					"backtrace" : 41,
+					"define" : "GLEW_STATIC"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_WIDGETS_LIB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_XML_LIB"
+				},
+				{
+					"backtrace" : 42,
+					"define" : "VERSION=\"2.2.0\""
+				},
+				{
+					"backtrace" : 43,
+					"define" : "__MC_NO_GLEW__"
+				},
+				{
+					"backtrace" : 44,
+					"define" : "__MC_QOPENGLFUNCTIONS__"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/home/alan/Games/2dCar/DustRacing2D/build/src/editor/dustrac-editor_autogen/include"
+				},
+				{
+					"backtrace" : 45,
+					"path" : "/home/alan/Games/2dCar/DustRacing2D/src/contrib/SimpleLogger/src"
+				},
+				{
+					"backtrace" : 46,
+					"path" : "/home/alan/Games/2dCar/DustRacing2D/src/contrib/Argengine/src"
+				},
+				{
+					"backtrace" : 47,
+					"path" : "/home/alan/Games/2dCar/DustRacing2D/src/editor/../common"
+				},
+				{
+					"backtrace" : 48,
+					"path" : "/home/alan/Games/2dCar/DustRacing2D/build"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/home/alan/Qt/6.8.3/gcc_64/include/QtWidgets"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/home/alan/Qt/6.8.3/gcc_64/include"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/home/alan/Qt/6.8.3/gcc_64/include/QtCore"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/home/alan/Qt/6.8.3/gcc_64/mkspecs/linux-g++"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/home/alan/Qt/6.8.3/gcc_64/include/QtGui"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/home/alan/Qt/6.8.3/gcc_64/include/QtXml"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					2,
+					2
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "Argengine_static::@469b1b93298d29dcbf7b"
+		},
+		{
+			"id" : "dustrac-editor_autogen_timestamp_deps::@01b63ccde04debc086b6"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "dustrac-editor_autogen::@01b63ccde04debc086b6"
+		}
+	],
+	"id" : "dustrac-editor::@01b63ccde04debc086b6",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,-rpath,/home/alan/Qt/6.8.3/gcc_64/lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/alan/Qt/6.8.3/gcc_64/lib/libQt6Widgets.so.6.8.3",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/alan/Qt/6.8.3/gcc_64/lib/libQt6Xml.so.6.8.3",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "../../libArgengine_static.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "/home/alan/Qt/6.8.3/gcc_64/lib/libQt6Gui.so.6.8.3",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 29,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libGLX.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 30,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libOpenGL.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "/home/alan/Qt/6.8.3/gcc_64/lib/libQt6Core.so.6.8.3",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Wl,-rpath-link,/home/alan/Qt/6.8.3/gcc_64/lib",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"linkLibraries" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "Qt6::Widgets::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "Qt6::Xml::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "Argengine_static::@469b1b93298d29dcbf7b"
+		}
+	],
+	"name" : "dustrac-editor",
+	"nameOnDisk" : "dustrac-editor",
+	"orderDependencies" : 
+	[
+		{
+			"id" : "Qt6::moc::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 33,
+			"id" : "Qt6::rcc::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "Qt6::uic::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 36,
+			"id" : "Qt6::lrelease::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "dustrac-editor_autogen_timestamp_deps::@01b63ccde04debc086b6"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "dustrac-editor_autogen::@01b63ccde04debc086b6"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/editor",
+		"source" : "src/editor"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files\\Generated",
+			"sourceIndexes" : 
+			[
+				0,
+				42
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3,
+				4,
+				5,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				6,
+				25
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				43,
+				44
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/src/editor/dustrac-editor_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/editor/aboutdlg.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/editor/application.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/editor/draganddropstore.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/editor/editordata.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/editor/editorview.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/editor/editormode.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/editor/floodfill.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/editor/main.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/editor/mainwindow.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/editor/map.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/editor/mediator.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/editor/newtrackdialog.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/editor/object.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/editor/objectfactory.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/editor/objectmodelloader.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/editor/rotatedialog.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/editor/targetnode.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/editor/targetnodesizedlg.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/editor/tileanimator.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/editor/trackdata.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/editor/trackio.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/editor/tracktile.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/editor/trackpropertiesdialog.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/editor/undostack.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/common/config.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/common/mapbase.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/common/objectbase.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/common/objects.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/common/route.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/common/targetnodebase.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/common/trackdatabase.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/common/tracktilebase.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/src/editor/qrc_editor.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/src/editor/qrc_icons.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "build/data/translations/dustrac-editor_fi.qm",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "build/data/translations/dustrac-editor_it.qm",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "build/data/translations/dustrac-editor_cs.qm",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "build/data/translations/dustrac-editor_fr.qm",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "build/data/translations/dustrac-editor_de.qm",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "build/data/translations/dustrac-editor_nl.qm",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "build/data/translations/dustrac-editor_tr.qm",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/src/editor/dustrac-editor_autogen/timestamp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"path" : "data/images/editor.qrc",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"path" : "data/icons/icons.qrc",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/data/translations/dustrac-editor_fi.qm.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/data/translations/dustrac-editor_it.qm.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/data/translations/dustrac-editor_cs.qm.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/data/translations/dustrac-editor_fr.qm.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/data/translations/dustrac-editor_de.qm.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/data/translations/dustrac-editor_nl.qm.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/data/translations/dustrac-editor_tr.qm.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/src/editor/dustrac-editor_autogen/timestamp.rule",
+			"sourceGroupIndex" : 4
+		}
+	],
+	"type" : "EXECUTABLE"
+}

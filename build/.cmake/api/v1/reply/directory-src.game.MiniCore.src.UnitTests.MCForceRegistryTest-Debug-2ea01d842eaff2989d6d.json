@@ -1,0 +1,19 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 10
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "src/game/MiniCore/src/UnitTests/MCForceRegistryTest",
+		"source" : "src/game/MiniCore/src/UnitTests/MCForceRegistryTest"
+	}
+}

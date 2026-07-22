@@ -1,0 +1,130 @@
+2026-07-08 12:05:46,201 - aqt.main - INFO - installer 138493221854144 aqtinstall(aqt) v3.3.0 on Python 3.13.14 [CPython GCC 15.2.0]
+2026-07-08 12:05:46,203 - aqt.helper - DEBUG - helper 138493221854144 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_683/qt6_683/Updates.xml.sha256
+2026-07-08 12:05:47,049 - aqt.helper - DEBUG - helper 138493221854144 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/extensions/qtwebengine/683/x86_64/Updates.xml.sha256
+2026-07-08 12:05:47,752 - aqt.archives - INFO - archives 138493221854144 Found extension qtwebengine
+2026-07-08 12:05:47,752 - aqt.helper - DEBUG - helper 138493221854144 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/extensions/qtpdf/683/x86_64/Updates.xml.sha256
+2026-07-08 12:05:48,428 - aqt.archives - INFO - archives 138493221854144 Found extension qtpdf
+2026-07-08 12:05:48,437 - aqt.main - ERROR - installer 138493221854144 The packages ['qt_base', 'qtbase', 'qtopengl', 'qtsql', 'qttools', 'qttranslations'] were not found while parsing XML of package information!
+==============================Suggested follow-up:==============================
+* Please use 'aqt list-qt linux desktop --arch 6.8.3' to show architectures available.
+* Please use 'aqt list-qt linux desktop --modules 6.8.3 <arch>' to show modules available.
+2026-07-08 12:05:54,794 - aqt.helper - DEBUG - helper 135689709140928 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_683/qt6_683/Updates.xml.sha256
+2026-07-08 12:05:55,951 - aqt.helper - DEBUG - helper 130003885988800 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_683/qt6_683/Updates.xml.sha256
+2026-07-08 12:05:56,714 - aqt.helper - DEBUG - helper 130003885988800 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/extensions/qtpdf/683/x86_64/Updates.xml.sha256
+2026-07-08 12:05:57,491 - aqt.helper - DEBUG - helper 130003885988800 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/extensions/qtwebengine/683/x86_64/Updates.xml.sha256
+2026-07-08 12:05:58,146 - aqt.main - ERROR - installer 130003885988800 No modules available for this request.
+==============================Suggested follow-up:==============================
+* Please use 'aqt list-qt linux desktop' to show versions of Qt available.
+* Please use 'aqt list-qt linux desktop --arch <QT_VERSION>' to list valid architectures.
+2026-07-08 12:06:33,343 - aqt.main - INFO - installer 131365003742144 aqtinstall(aqt) v3.3.0 on Python 3.13.14 [CPython GCC 15.2.0]
+2026-07-08 12:06:33,345 - aqt.helper - DEBUG - helper 131365003742144 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_683/qt6_683/Updates.xml.sha256
+2026-07-08 12:06:34,095 - aqt.helper - DEBUG - helper 131365003742144 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/extensions/qtwebengine/683/x86_64/Updates.xml.sha256
+2026-07-08 12:06:34,800 - aqt.archives - INFO - archives 131365003742144 Found extension qtwebengine
+2026-07-08 12:06:34,801 - aqt.helper - DEBUG - helper 131365003742144 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/extensions/qtpdf/683/x86_64/Updates.xml.sha256
+2026-07-08 12:06:35,470 - aqt.archives - INFO - archives 131365003742144 Found extension qtpdf
+2026-07-08 12:06:35,483 - aqt.main - ERROR - installer 131365003742144 The packages ['qtbase', 'qtopengl', 'qtsql', 'qttools', 'qttranslations'] were not found while parsing XML of package information!
+==============================Suggested follow-up:==============================
+* Please use 'aqt list-qt linux desktop --modules 6.8.3 <arch>' to show modules available.
+2026-07-08 12:06:53,042 - aqt.helper - DEBUG - helper 137055506897856 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_683/qt6_683/Updates.xml.sha256
+2026-07-08 12:06:53,754 - aqt.helper - DEBUG - helper 137055506897856 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/extensions/qtpdf/683/x86_64/Updates.xml.sha256
+2026-07-08 12:06:54,453 - aqt.helper - DEBUG - helper 137055506897856 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/extensions/qtwebengine/683/x86_64/Updates.xml.sha256
+2026-07-08 12:07:49,470 - aqt.main - INFO - installer 126972246477760 aqtinstall(aqt) v3.3.0 on Python 3.13.14 [CPython GCC 15.2.0]
+2026-07-08 12:07:49,471 - aqt.helper - DEBUG - helper 126972246477760 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_643/Updates.xml.sha256
+2026-07-08 12:07:50,201 - aqt.main - ERROR - installer 126972246477760 The packages ['qt_base'] were not found while parsing XML of package information!
+==============================Suggested follow-up:==============================
+* Please use 'aqt list-qt linux desktop --arch 6.4.3' to show architectures available.
+2026-07-08 12:10:33,116 - aqt.helper - DEBUG - helper 138596798430144 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_683/qt6_683/Updates.xml.sha256
+2026-07-08 12:11:09,669 - aqt.main - INFO - installer 136929647856576 aqtinstall(aqt) v3.3.0 on Python 3.13.14 [CPython GCC 15.2.0]
+2026-07-08 12:11:09,670 - aqt.helper - DEBUG - helper 136929647856576 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_683/qt6_683/Updates.xml.sha256
+2026-07-08 12:11:10,399 - aqt.helper - DEBUG - helper 136929647856576 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/extensions/qtwebengine/683/x86_64/Updates.xml.sha256
+2026-07-08 12:11:11,077 - aqt.archives - INFO - archives 136929647856576 Found extension qtwebengine
+2026-07-08 12:11:11,078 - aqt.helper - DEBUG - helper 136929647856576 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/extensions/qtpdf/683/x86_64/Updates.xml.sha256
+2026-07-08 12:11:11,744 - aqt.archives - INFO - archives 136929647856576 Found extension qtpdf
+2026-07-08 12:11:11,754 - aqt.main - ERROR - installer 136929647856576 The packages ['qtbase', 'qtopengl', 'qtsql', 'qttools', 'qttranslations'] were not found while parsing XML of package information!
+==============================Suggested follow-up:==============================
+* Please use 'aqt list-qt linux desktop --modules 6.8.3 <arch>' to show modules available.
+2026-07-08 12:11:32,820 - aqt.main - INFO - installer 125472290433984 aqtinstall(aqt) v3.3.0 on Python 3.13.14 [CPython GCC 15.2.0]
+2026-07-08 12:11:32,821 - aqt.helper - DEBUG - helper 125472290433984 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_683/qt6_683/Updates.xml.sha256
+2026-07-08 12:11:33,538 - aqt.helper - DEBUG - helper 125472290433984 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/extensions/qtwebengine/683/x86_64/Updates.xml.sha256
+2026-07-08 12:11:34,207 - aqt.archives - INFO - archives 125472290433984 Found extension qtwebengine
+2026-07-08 12:11:34,207 - aqt.helper - DEBUG - helper 125472290433984 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/extensions/qtpdf/683/x86_64/Updates.xml.sha256
+2026-07-08 12:11:34,923 - aqt.archives - INFO - archives 125472290433984 Found extension qtpdf
+2026-07-08 12:11:35,436 - aqt.helper - DEBUG - helper 128860778286016 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_683/qt6_683/qt.qt6.683.linux_gcc_64/6.8.3-0-202503201345qtbase-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2026-07-08 12:11:35,817 - aqt.helper - INFO - helper 128860778286016 Downloading qtbase...
+2026-07-08 12:11:35,818 - aqt.installer - DEBUG - installer 128860778286016 Download URL: https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_683/qt6_683/qt.qt6.683.linux_gcc_64/6.8.3-0-202503201345qtbase-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z
+2026-07-08 12:11:36,193 - aqt.helper - DEBUG - helper 128860778286016 Asked to redirect(302) to: https://qtproject.mirror.liquidtelecom.com/online/qtsdkrepository/linux_x64/desktop/qt6_683/qt6_683/qt.qt6.683.linux_gcc_64/6.8.3-0-202503201345qtbase-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z
+2026-07-08 12:11:36,193 - aqt.helper - INFO - helper 128860778286016 Redirected: qtproject.mirror.liquidtelecom.com
+2026-07-08 12:11:48,682 - aqt.installer - INFO - installer 128860778286016 Finished installation of qtbase-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z in 13.25067809
+2026-07-08 12:11:48,843 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/pkgconfig/Qt6Network.pc
+2026-07-08 12:11:48,844 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/pkgconfig/Qt6Gui.pc
+2026-07-08 12:11:48,844 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/pkgconfig/Qt6Platform.pc
+2026-07-08 12:11:48,844 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/pkgconfig/Qt6OpenGLWidgets.pc
+2026-07-08 12:11:48,845 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/pkgconfig/Qt6DBus.pc
+2026-07-08 12:11:48,845 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/pkgconfig/Qt6OpenGL.pc
+2026-07-08 12:11:48,845 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/pkgconfig/Qt6PrintSupport.pc
+2026-07-08 12:11:48,845 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/pkgconfig/Qt6Xml.pc
+2026-07-08 12:11:48,846 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/pkgconfig/Qt6Sql.pc
+2026-07-08 12:11:48,846 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/pkgconfig/Qt6Test.pc
+2026-07-08 12:11:48,846 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/pkgconfig/Qt6Core.pc
+2026-07-08 12:11:48,846 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/pkgconfig/Qt6Widgets.pc
+2026-07-08 12:11:48,847 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/pkgconfig/Qt6Concurrent.pc
+2026-07-08 12:11:48,848 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/libQt6DeviceDiscoverySupport.prl
+2026-07-08 12:11:48,848 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/libQt6PrintSupport.prl
+2026-07-08 12:11:48,849 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/libQt6OpenGLWidgets.prl
+2026-07-08 12:11:48,849 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/libQt6EglFSDeviceIntegration.prl
+2026-07-08 12:11:48,849 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/libQt6ExamplesAssetDownloader.prl
+2026-07-08 12:11:48,850 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/libQt6KmsSupport.prl
+2026-07-08 12:11:48,850 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/libQt6Gui.prl
+2026-07-08 12:11:48,850 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/libQt6Widgets.prl
+2026-07-08 12:11:48,850 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/libQt6InputSupport.prl
+2026-07-08 12:11:48,851 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/libQt6FbSupport.prl
+2026-07-08 12:11:48,851 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/libQt6Concurrent.prl
+2026-07-08 12:11:48,851 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/libQt6EglFsKmsGbmSupport.prl
+2026-07-08 12:11:48,851 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/libQt6OpenGL.prl
+2026-07-08 12:11:48,852 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/libQt6ExampleIcons.prl
+2026-07-08 12:11:48,852 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/libQt6EglFsKmsSupport.prl
+2026-07-08 12:11:48,852 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/libQt6Network.prl
+2026-07-08 12:11:48,852 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/libQt6Xml.prl
+2026-07-08 12:11:48,853 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/libQt6Test.prl
+2026-07-08 12:11:48,853 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/libQt6Sql.prl
+2026-07-08 12:11:48,854 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/libQt6XcbQpa.prl
+2026-07-08 12:11:48,854 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/libQt6Core.prl
+2026-07-08 12:11:48,855 - aqt.updater - INFO - updater 125472290433984 Patching /home/alan/Qt/6.8.3/gcc_64/lib/libQt6DBus.prl
+2026-07-08 12:11:48,855 - aqt.main - INFO - installer 125472290433984 Finished installation
+2026-07-08 12:11:48,855 - aqt.main - INFO - installer 125472290433984 Time elapsed: 16.03581608 second
+2026-07-08 12:14:29,255 - aqt.main - INFO - installer 124422098959296 aqtinstall(aqt) v3.3.0 on Python 3.13.14 [CPython GCC 15.2.0]
+2026-07-08 12:14:29,256 - aqt.helper - DEBUG - helper 124422098959296 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_683/qt6_683/Updates.xml.sha256
+2026-07-08 12:14:29,984 - aqt.helper - DEBUG - helper 124422098959296 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/extensions/qtwebengine/683/x86_64/Updates.xml.sha256
+2026-07-08 12:14:30,652 - aqt.archives - INFO - archives 124422098959296 Found extension qtwebengine
+2026-07-08 12:14:30,652 - aqt.helper - DEBUG - helper 124422098959296 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/extensions/qtpdf/683/x86_64/Updates.xml.sha256
+2026-07-08 12:14:31,353 - aqt.archives - INFO - archives 124422098959296 Found extension qtpdf
+2026-07-08 12:14:32,225 - aqt.main - INFO - installer 124422098959296 Finished installation
+2026-07-08 12:14:32,226 - aqt.main - INFO - installer 124422098959296 Time elapsed: 2.97053197 second
+2026-07-08 12:16:17,155 - aqt.main - INFO - installer 125398585347008 aqtinstall(aqt) v3.3.0 on Python 3.13.14 [CPython GCC 15.2.0]
+2026-07-08 12:16:17,157 - aqt.helper - DEBUG - helper 125398585347008 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_683/qt6_683/Updates.xml.sha256
+2026-07-08 12:16:17,891 - aqt.helper - DEBUG - helper 125398585347008 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/extensions/qtwebengine/683/x86_64/Updates.xml.sha256
+2026-07-08 12:16:18,569 - aqt.archives - INFO - archives 125398585347008 Found extension qtwebengine
+2026-07-08 12:16:18,569 - aqt.helper - DEBUG - helper 125398585347008 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/extensions/qtpdf/683/x86_64/Updates.xml.sha256
+2026-07-08 12:16:19,291 - aqt.archives - INFO - archives 125398585347008 Found extension qtpdf
+2026-07-08 12:16:19,774 - aqt.helper - DEBUG - helper 125853835606976 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_683/qt6_683/qt.qt6.683.linux_gcc_64/6.8.3-0-202503201345qttools-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2026-07-08 12:16:20,111 - aqt.helper - INFO - helper 125853835606976 Downloading qttools...
+2026-07-08 12:16:20,112 - aqt.installer - DEBUG - installer 125853835606976 Download URL: https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_683/qt6_683/qt.qt6.683.linux_gcc_64/6.8.3-0-202503201345qttools-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z
+2026-07-08 12:16:20,493 - aqt.helper - DEBUG - helper 125853835606976 Asked to redirect(302) to: https://qtproject.mirror.liquidtelecom.com/online/qtsdkrepository/linux_x64/desktop/qt6_683/qt6_683/qt.qt6.683.linux_gcc_64/6.8.3-0-202503201345qttools-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z
+2026-07-08 12:16:20,493 - aqt.helper - INFO - helper 125853835606976 Redirected: qtproject.mirror.liquidtelecom.com
+2026-07-08 12:16:33,487 - aqt.installer - INFO - installer 125853835606976 Finished installation of qttools-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z in 13.72609115
+2026-07-08 12:16:33,655 - aqt.main - INFO - installer 125398585347008 Finished installation
+2026-07-08 12:16:33,655 - aqt.main - INFO - installer 125398585347008 Time elapsed: 16.50024605 second
+2026-07-08 12:19:01,616 - aqt.main - INFO - installer 136898732387264 aqtinstall(aqt) v3.3.0 on Python 3.13.14 [CPython GCC 15.2.0]
+2026-07-08 12:19:01,617 - aqt.helper - DEBUG - helper 136898732387264 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_683/qt6_683/Updates.xml.sha256
+2026-07-08 12:19:02,306 - aqt.helper - DEBUG - helper 136898732387264 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/extensions/qtwebengine/683/x86_64/Updates.xml.sha256
+2026-07-08 12:19:03,018 - aqt.archives - INFO - archives 136898732387264 Found extension qtwebengine
+2026-07-08 12:19:03,020 - aqt.helper - DEBUG - helper 136898732387264 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/extensions/qtpdf/683/x86_64/Updates.xml.sha256
+2026-07-08 12:19:03,766 - aqt.archives - INFO - archives 136898732387264 Found extension qtpdf
+2026-07-08 12:19:04,264 - aqt.helper - DEBUG - helper 138666962213824 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_683/qt6_683/qt.qt6.683.linux_gcc_64/6.8.3-0-202503201345icu-linux-Rhel8.6-x86_64.7z.sha256
+2026-07-08 12:19:04,642 - aqt.helper - INFO - helper 138666962213824 Downloading icu...
+2026-07-08 12:19:04,642 - aqt.installer - DEBUG - installer 138666962213824 Download URL: https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_683/qt6_683/qt.qt6.683.linux_gcc_64/6.8.3-0-202503201345icu-linux-Rhel8.6-x86_64.7z
+2026-07-08 12:19:04,978 - aqt.helper - DEBUG - helper 138666962213824 Asked to redirect(302) to: https://qtproject.mirror.liquidtelecom.com/online/qtsdkrepository/linux_x64/desktop/qt6_683/qt6_683/qt.qt6.683.linux_gcc_64/6.8.3-0-202503201345icu-linux-Rhel8.6-x86_64.7z
+2026-07-08 12:19:04,979 - aqt.helper - INFO - helper 138666962213824 Redirected: qtproject.mirror.liquidtelecom.com
+2026-07-08 12:19:09,664 - aqt.installer - INFO - installer 138666962213824 Finished installation of icu-linux-Rhel8.6-x86_64.7z in 5.40851411
+2026-07-08 12:19:09,823 - aqt.main - INFO - installer 136898732387264 Finished installation
+2026-07-08 12:19:09,823 - aqt.main - INFO - installer 136898732387264 Time elapsed: 8.20658902 second

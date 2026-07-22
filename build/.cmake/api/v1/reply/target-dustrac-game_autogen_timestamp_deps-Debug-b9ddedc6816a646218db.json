@@ -1,0 +1,106 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"src/game/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 10
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "SimpleLogger_static::@49086cdaf2debcc0514f"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Argengine_static::@469b1b93298d29dcbf7b"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "MiniCore::@2d2f86621e37ad2e585d"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "MTFH::@f4efda0dadc692bed537"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "STFH::@a3e36422d9d728db0e8c"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "dustrac-game_autogen_timestamp_deps::@237b513620d2b2ecc71d",
+	"isGeneratorProvided" : true,
+	"name" : "dustrac-game_autogen_timestamp_deps",
+	"orderDependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::moc::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "OpenGL::GL::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::OpenGL::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::Xml::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::uic::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::Sql::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "SimpleLogger_static::@49086cdaf2debcc0514f"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Argengine_static::@469b1b93298d29dcbf7b"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "MiniCore::@2d2f86621e37ad2e585d"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "MTFH::@f4efda0dadc692bed537"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "STFH::@a3e36422d9d728db0e8c"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/game",
+		"source" : "src/game"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

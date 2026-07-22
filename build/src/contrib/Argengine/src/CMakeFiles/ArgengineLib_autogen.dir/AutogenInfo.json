@@ -1,0 +1,101 @@
+{
+	"BUILD_DIR" : "/home/alan/Games/2dCar/DustRacing2D/build/src/contrib/Argengine/src/ArgengineLib_autogen",
+	"CMAKE_BINARY_DIR" : "/home/alan/Games/2dCar/DustRacing2D/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/alan/Games/2dCar/DustRacing2D/build/src/contrib/Argengine/src",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/alan/Games/2dCar/DustRacing2D/src/contrib/Argengine/src",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/alan/Games/2dCar/DustRacing2D/src/contrib/Argengine/src/CMakeLists.txt"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/alan/Games/2dCar/DustRacing2D",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/home/alan/Games/2dCar/DustRacing2D/build/src/contrib/Argengine/src/ArgengineLib_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "ArgengineLib_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/contrib/Argengine/src/argengine.hpp",
+			"MU",
+			"EWIEGA46WW/moc_argengine.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/alan/Games/2dCar/DustRacing2D/build/src/contrib/Argengine/src/ArgengineLib_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/alan/Games/2dCar/DustRacing2D/build/src/contrib/Argengine/src/ArgengineLib_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"GLEW_NO_GLU",
+		"GLEW_STATIC",
+		"VERSION=\"2.2.0\"",
+		"__MC_NO_GLEW__",
+		"__MC_QOPENGLFUNCTIONS__"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/alan/Games/2dCar/DustRacing2D/build/src/contrib/Argengine/src",
+		"/home/alan/Games/2dCar/DustRacing2D/src/contrib/Argengine/src",
+		"/home/alan/Games/2dCar/DustRacing2D/src/contrib/SimpleLogger/src",
+		"/usr/include",
+		"/usr/include/c++/15.2.0",
+		"/usr/include/c++/15.2.0/x86_64-unknown-linux-gnu",
+		"/usr/include/c++/15.2.0/backward",
+		"/usr/lib/gcc/x86_64-unknown-linux-gnu/15.2.0/include",
+		"/usr/lib/gcc/x86_64-unknown-linux-gnu/15.2.0/include-fixed",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-std=gnu++17",
+		"-w",
+		"-dM",
+		"-E",
+		"/usr/share/cmake-4.3/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/alan/Games/2dCar/DustRacing2D/build/src/contrib/Argengine/src/ArgengineLib_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/home/alan/Games/2dCar/DustRacing2D/build/src/contrib/Argengine/src/CMakeFiles/ArgengineLib_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/home/alan/Qt/6.8.3/gcc_64/libexec/moc",
+	"QT_UIC_EXECUTABLE" : "/home/alan/Qt/6.8.3/gcc_64/libexec/uic",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 8,
+	"SETTINGS_FILE" : "/home/alan/Games/2dCar/DustRacing2D/build/src/contrib/Argengine/src/CMakeFiles/ArgengineLib_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/contrib/Argengine/src/argengine.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

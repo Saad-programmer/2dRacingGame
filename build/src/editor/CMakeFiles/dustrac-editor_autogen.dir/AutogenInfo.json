@@ -1,0 +1,440 @@
+{
+	"BUILD_DIR" : "/home/alan/Games/2dCar/DustRacing2D/build/src/editor/dustrac-editor_autogen",
+	"CMAKE_BINARY_DIR" : "/home/alan/Games/2dCar/DustRacing2D/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/alan/Games/2dCar/DustRacing2D/build/src/editor",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/alan/Games/2dCar/DustRacing2D/src/editor",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/alan/Games/2dCar/DustRacing2D/src/editor/CMakeLists.txt",
+		"/home/alan/Games/2dCar/DustRacing2D/data/images/editor.qrc",
+		"/home/alan/Games/2dCar/DustRacing2D/data/icons/icons.qrc"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/alan/Games/2dCar/DustRacing2D",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/home/alan/Games/2dCar/DustRacing2D/build/src/editor/dustrac-editor_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "dustrac-editor_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/common/config.hpp",
+			"MU",
+			"AAGGKE4ILT/moc_config.cpp",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/common/mapbase.hpp",
+			"MU",
+			"AAGGKE4ILT/moc_mapbase.cpp",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/common/objectbase.hpp",
+			"MU",
+			"AAGGKE4ILT/moc_objectbase.cpp",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/common/objects.hpp",
+			"MU",
+			"AAGGKE4ILT/moc_objects.cpp",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/common/route.hpp",
+			"MU",
+			"AAGGKE4ILT/moc_route.cpp",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/common/targetnodebase.hpp",
+			"MU",
+			"AAGGKE4ILT/moc_targetnodebase.cpp",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/common/trackdatabase.hpp",
+			"MU",
+			"AAGGKE4ILT/moc_trackdatabase.cpp",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/common/tracktilebase.hpp",
+			"MU",
+			"AAGGKE4ILT/moc_tracktilebase.cpp",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/aboutdlg.hpp",
+			"MU",
+			"EWIEGA46WW/moc_aboutdlg.cpp",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/application.hpp",
+			"MU",
+			"EWIEGA46WW/moc_application.cpp",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/draganddropstore.hpp",
+			"MU",
+			"EWIEGA46WW/moc_draganddropstore.cpp",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/editordata.hpp",
+			"MU",
+			"EWIEGA46WW/moc_editordata.cpp",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/editormode.hpp",
+			"MU",
+			"EWIEGA46WW/moc_editormode.cpp",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/editorview.hpp",
+			"MU",
+			"EWIEGA46WW/moc_editorview.cpp",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/floodfill.hpp",
+			"MU",
+			"EWIEGA46WW/moc_floodfill.cpp",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/mainwindow.hpp",
+			"MU",
+			"EWIEGA46WW/moc_mainwindow.cpp",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/map.hpp",
+			"MU",
+			"EWIEGA46WW/moc_map.cpp",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/mediator.hpp",
+			"MU",
+			"EWIEGA46WW/moc_mediator.cpp",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/newtrackdialog.hpp",
+			"MU",
+			"EWIEGA46WW/moc_newtrackdialog.cpp",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/object.hpp",
+			"MU",
+			"EWIEGA46WW/moc_object.cpp",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/objectfactory.hpp",
+			"MU",
+			"EWIEGA46WW/moc_objectfactory.cpp",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/objectmodelloader.hpp",
+			"MU",
+			"EWIEGA46WW/moc_objectmodelloader.cpp",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/rotatedialog.hpp",
+			"MU",
+			"EWIEGA46WW/moc_rotatedialog.cpp",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/targetnode.hpp",
+			"MU",
+			"EWIEGA46WW/moc_targetnode.cpp",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/targetnodesizedlg.hpp",
+			"MU",
+			"EWIEGA46WW/moc_targetnodesizedlg.cpp",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/tileanimator.hpp",
+			"MU",
+			"EWIEGA46WW/moc_tileanimator.cpp",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/trackdata.hpp",
+			"MU",
+			"EWIEGA46WW/moc_trackdata.cpp",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/trackio.hpp",
+			"MU",
+			"EWIEGA46WW/moc_trackio.cpp",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/trackpropertiesdialog.hpp",
+			"MU",
+			"EWIEGA46WW/moc_trackpropertiesdialog.cpp",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/tracktile.hpp",
+			"MU",
+			"EWIEGA46WW/moc_tracktile.cpp",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/undostack.hpp",
+			"MU",
+			"EWIEGA46WW/moc_undostack.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/alan/Games/2dCar/DustRacing2D/build/src/editor/dustrac-editor_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/alan/Games/2dCar/DustRacing2D/build/src/editor/dustrac-editor_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"DATA_PATH=\"./data\"",
+		"GLEW_NO_GLU",
+		"GLEW_STATIC",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_WIDGETS_LIB",
+		"QT_XML_LIB",
+		"VERSION=\"2.2.0\"",
+		"__MC_NO_GLEW__",
+		"__MC_QOPENGLFUNCTIONS__"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/alan/Games/2dCar/DustRacing2D/src/contrib/SimpleLogger/src",
+		"/home/alan/Games/2dCar/DustRacing2D/src/contrib/Argengine/src",
+		"/home/alan/Games/2dCar/DustRacing2D/src/common",
+		"/home/alan/Games/2dCar/DustRacing2D/build",
+		"/home/alan/Qt/6.8.3/gcc_64/include/QtWidgets",
+		"/home/alan/Qt/6.8.3/gcc_64/include",
+		"/home/alan/Qt/6.8.3/gcc_64/include/QtCore",
+		"/home/alan/Qt/6.8.3/gcc_64/mkspecs/linux-g++",
+		"/home/alan/Qt/6.8.3/gcc_64/include/QtGui",
+		"/home/alan/Qt/6.8.3/gcc_64/include/QtXml",
+		"/usr/include",
+		"/usr/include",
+		"/usr/include/c++/15.2.0",
+		"/usr/include/c++/15.2.0/x86_64-unknown-linux-gnu",
+		"/usr/include/c++/15.2.0/backward",
+		"/usr/lib/gcc/x86_64-unknown-linux-gnu/15.2.0/include",
+		"/usr/lib/gcc/x86_64-unknown-linux-gnu/15.2.0/include-fixed",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-std=gnu++17",
+		"-w",
+		"-dM",
+		"-E",
+		"/usr/share/cmake-4.3/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/alan/Games/2dCar/DustRacing2D/build/src/editor/dustrac-editor_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : 
+	[
+		"/home/alan/Games/2dCar/DustRacing2D/build/src/editor/qrc_editor.cpp",
+		"/home/alan/Games/2dCar/DustRacing2D/build/src/editor/qrc_icons.cpp"
+	],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/home/alan/Games/2dCar/DustRacing2D/build/src/editor/CMakeFiles/dustrac-editor_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/home/alan/Qt/6.8.3/gcc_64/libexec/moc",
+	"QT_UIC_EXECUTABLE" : "/home/alan/Qt/6.8.3/gcc_64/libexec/uic",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 8,
+	"SETTINGS_FILE" : "/home/alan/Games/2dCar/DustRacing2D/build/src/editor/CMakeFiles/dustrac-editor_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/common/mapbase.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/common/objectbase.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/common/objects.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/common/route.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/common/targetnodebase.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/common/trackdatabase.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/common/tracktilebase.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/aboutdlg.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/application.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/draganddropstore.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/editordata.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/editorview.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/floodfill.cpp",
+			"MU",
+			null
+		],
+		[ "/home/alan/Games/2dCar/DustRacing2D/src/editor/main.cpp", "MU", null ],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/mainwindow.cpp",
+			"MU",
+			null
+		],
+		[ "/home/alan/Games/2dCar/DustRacing2D/src/editor/map.cpp", "MU", null ],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/mediator.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/newtrackdialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/object.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/objectfactory.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/objectmodelloader.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/rotatedialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/targetnode.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/targetnodesizedlg.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/tileanimator.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/trackdata.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/trackio.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/trackpropertiesdialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/tracktile.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/alan/Games/2dCar/DustRacing2D/src/editor/undostack.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : 
+	[
+		"/home/alan/Games/2dCar/DustRacing2D/build/src/editor/qrc_editor.cpp",
+		"/home/alan/Games/2dCar/DustRacing2D/build/src/editor/qrc_icons.cpp"
+	],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
