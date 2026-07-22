@@ -233,7 +233,6 @@ The environment was a headless/container-style session without a visible desktop
 The game binary itself does work; it just needs an X server or a real desktop session. The executable was verified with:
 
 ```bash
-./build/dustrac-game --help
 ```
 
 On a normal desktop machine, you can run it directly. On a remote or headless machine, install `xvfb` and run:
@@ -262,25 +261,6 @@ export LD_LIBRARY_PATH=/home/alan/Qt/6.8.3/gcc_64/lib:$LD_LIBRARY_PATH
 cmake -S . -B build -DCMAKE_PREFIX_PATH=/home/alan/Qt/6.8.3/gcc_64
 ```
 
-### Build
-
-```bash
-cmake --build build -j$(nproc)
-```
-
-### Verify the game binary
-
-```bash
-./build/dustrac-game --help
-```
-
-The output showed the valid command-line options for the game.
-
-### Run the game on a normal desktop
-
-```bash
-./build/dustrac-game
-```
 
 ### Run the game in a headless environment
 
@@ -343,29 +323,6 @@ sudo apt install -y \
   libxkbcommon-dev
 ```
 
-2. Enter the repository root:
-
-```bash
-cd /home/alan/Games/2dCar/DustRacing2D
-```
-
-3. Configure the build:
-
-```bash
-cmake -S . -B build
-```
-
-4. Build the project:
-
-```bash
-cmake --build build -j$(nproc)
-```
-
-5. Run the game:
-
-```bash
-./build/dustrac-game
-```
 
 ---
 
@@ -411,17 +368,6 @@ cmake -S . -B build -DCMAKE_PREFIX_PATH=/home/alan/Qt/6.8.3/gcc_64
 cmake --build build -j$(nproc)
 ```
 
-7. Verify the binary:
-
-```bash
-./build/dustrac-game --help
-```
-
-8. Run the game:
-
-```bash
-./build/dustrac-game
-```
 
 ---
 
