@@ -111,13 +111,6 @@ E.g. `dustrac-game --screen 1` would start the game on the second display.
 Please refer to the `INSTALL` document for build/install instructions if you're
 going to build **Dust Racing 2D** from sources.
 
-In a nutshell, on Linux after installing `Qt6`, `OpenAL` and `Vorbis` dev libs you just:
-
-`$ mkdir build && cd build`
-
-`$ cmake ..`
-
-`$ make`
 
 ..or open the top-level `CMakeLists.txt` in **Qt Creator** or other IDE that supports CMake.
 >>>>>>> 290790d (first commit)
